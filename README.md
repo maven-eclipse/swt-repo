@@ -1,4 +1,4 @@
-A Maven repository hosting SWT and JFace jar files / artefacts which can't be found in maven central.
+A Maven repository hosting SWT and JFace jar files / artefacts which [still](https://bugs.eclipse.org/bugs/show_bug.cgi?id=199302) can't be found in maven central.
 
 ### SWT example
 
@@ -8,7 +8,7 @@ Add this repository to your project's pom.xml:
 <repositories>
     <repository>
         <id>swt-repo</id>
-        <url>https://raw.githubusercontent.com/maven-eclipse/repo/master/</url>
+        <url>https://raw.githubusercontent.com/maven-eclipse/swt-repo/master/</url>
     </repository>
 </repositories>
 ```
