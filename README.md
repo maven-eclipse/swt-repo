@@ -1,3 +1,9 @@
+# UPDATE:
+
+This repo was migrated from the swt-repo project on Google Code. It is moving to [http://maven-eclipse.github.io](http://github.com/maven-eclipse/maven-eclipse.github.io) which provides a reproducible repository and cleaner urls. Currentently it contains SWT from 4.2+, including the 4.4.2, 4.5, and interm RC milestones. JFace and SWTBot jars and dependencies will be added soon.
+
+------------------
+
 A Maven repository hosting SWT and JFace jar files / artefacts which [still](https://bugs.eclipse.org/bugs/show_bug.cgi?id=199302) can't be found in maven central.
 
 ### SWT example
